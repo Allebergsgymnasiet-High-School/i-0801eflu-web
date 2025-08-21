@@ -1,0 +1,15 @@
+/workspaces/i-0801eflu-web/bin/Debug/net8.0/i-0801eflu-web
+/workspaces/i-0801eflu-web/bin/Debug/net8.0/i-0801eflu-web.deps.json
+/workspaces/i-0801eflu-web/bin/Debug/net8.0/i-0801eflu-web.runtimeconfig.json
+/workspaces/i-0801eflu-web/bin/Debug/net8.0/i-0801eflu-web.dll
+/workspaces/i-0801eflu-web/bin/Debug/net8.0/i-0801eflu-web.pdb
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.AssemblyInfoInputs.cache
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.AssemblyInfo.cs
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.csproj.CoreCompileInputs.cache
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.sourcelink.json
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.dll
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/refint/i-0801eflu-web.dll
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.pdb
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/i-0801eflu-web.genruntimeconfig.cache
+/workspaces/i-0801eflu-web/obj/Debug/net8.0/ref/i-0801eflu-web.dll

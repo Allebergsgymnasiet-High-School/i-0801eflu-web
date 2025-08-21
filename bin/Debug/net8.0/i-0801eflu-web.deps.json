@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "i-0801eflu-web/1.0.0": {
+        "runtime": {
+          "i-0801eflu-web.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "i-0801eflu-web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
