@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("i-0801eflu-web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0899101bb4348e1f7c33b4e4650ac621f264c785")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac1f4f4b05242e86b9d2322ea4c05836282a8f01")]
 [assembly: System.Reflection.AssemblyProductAttribute("i-0801eflu-web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("i-0801eflu-web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
